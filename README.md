@@ -22,7 +22,7 @@ A KWin script to switch windows between activities using shortcuts. Initially ma
 ```sh
 git clone https://github.com/luisbocanegra/kwin-window-activity-switcher.git
 cd kwin-window-activity-switcher
-kpackagetool6 --type KWin/Script --install package/
+./install.sh
 ```
 
 ## Configuration
