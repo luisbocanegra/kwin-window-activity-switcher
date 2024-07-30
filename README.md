@@ -14,8 +14,10 @@ A KWin script to switch windows between activities using shortcuts. Initially ma
 
 ### Installation via graphical interface
 
-1. **TODO** ~~Install the script via *System Settings* > *Window Management* > *KWin Scripts* > *Get New Scripts …* > search for *Window Activity Switcher* > *Install*.~~
-2. ~~Enable the script by activating its checkbox, and apply the settings.~~
+1. Install the script via *System Settings* > *Window Management* > *KWin Scripts* > *Get New Scripts …* > search for *Window Activity Switcher* > *Install*.
+2. Enable the script by activating its checkbox, and apply the settings.
+
+[KDE Store](https://store.kde.org/p/2183786)
 
 ### Installation from command line
 
