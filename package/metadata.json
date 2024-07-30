@@ -3,16 +3,16 @@
     "KPlugin": {
         "Authors": [
             {
-                "Email": "jmillan@kde-espana.org",
-                "Name": "José Millán Soto"
+                "Email": "luisbocanegra17b@gmail.com",
+                "Name": "Luis Bocanegra"
             }
         ],
         "Description": "Switch Windows between activities",
         "Icon": "preferences-system-windows-script-test",
         "Id": "luisbocanegra.windowActivitySwitcher",
-        "License": "GPL",
+        "License": "GPL3",
         "Name": "Window Activity Switcher",
-        "Version": "0.2",
+        "Version": "0.2.0",
         "EnabledByDefault": true
     },
     "X-Plasma-API": "javascript"
