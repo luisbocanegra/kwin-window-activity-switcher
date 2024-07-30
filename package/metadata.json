@@ -9,10 +9,10 @@
         ],
         "Description": "Switch Windows between activities",
         "Icon": "preferences-system-windows-script-test",
-        "Id": "luisbocanegra.windowActivitySwitcher",
+        "Id": "luisbocanegra.windowActivitySwitcher.kwinscript",
         "License": "GPL3",
         "Name": "Window Activity Switcher",
-        "Version": "0.2.0",
+        "Version": "0.3.0",
         "EnabledByDefault": true
     },
     "X-Plasma-API": "javascript"
